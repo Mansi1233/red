@@ -34,5 +34,4 @@
 ```
 
 #### Click [__*here*__](Solution/Day-065.cpp) for solution.
-#### Click [__*here*__](https://leetcode.com/problems/matrix in a clockwise spiral/) to visit [*LeetCode*](https://leetcode.com/) for this question.
 ---
